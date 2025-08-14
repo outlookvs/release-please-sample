@@ -195,7 +195,7 @@ This package uses automated releases via release-please:
 
 See [CHANGELOG.md](./CHANGELOG.md) for detailed version history.
 
-## 🤝 Contributing
+## Contributing
 
 1. **Fork & Clone**: Create your own copy
 2. **Branch**: Create feature branch (`git checkout -b feature/amazing-feature`)
@@ -212,7 +212,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for detailed version history.
 - `test:` - Adding or updating tests
 - `chore:` - Maintenance tasks
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the main repository LICENSE file for details.
 
