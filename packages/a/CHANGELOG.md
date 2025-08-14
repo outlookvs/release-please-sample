@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/outlookvs/release-please-sample/compare/v0.4.0...v0.5.0) (2025-08-14)
+
+
+### Features
+
+* add automation flow ([4cca199](https://github.com/outlookvs/release-please-sample/commit/4cca199397b71a74c5350965563ff9981cc3973d))
+
 ## [0.4.0](https://github.com/outlookvs/release-please-sample/compare/v0.3.0...v0.4.0) (2025-08-14)
 
 
