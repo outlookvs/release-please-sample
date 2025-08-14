@@ -1,4 +1,4 @@
-"""Sample Package A for demonstrating release-please automation."""
+"""Sample Package A for demonstrating release-please automation flow."""
 
 __version__ = "0.0.0"
 __author__ = "Your Name"
