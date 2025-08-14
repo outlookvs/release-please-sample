@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/outlookvs/release-please-sample/compare/v0.1.0...v0.2.0) (2025-08-14)
+
+
+### Features
+
+* add user authentication feature ([5e75757](https://github.com/outlookvs/release-please-sample/commit/5e757579f0d842e268b41a71967daccb76439dcb))
+
 ## 0.1.0 (2025-08-14)
 
 
