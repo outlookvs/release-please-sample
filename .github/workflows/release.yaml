@@ -30,10 +30,10 @@ jobs:
           fetch-depth: 0
 
       - name: Release with release-please
-        uses: google-github-actions/release-please-action@v4
+        uses: googleapis/release-please-action@v4
         id: release
         with:
-          command: manifest
+          command: manifest-file
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show release outputs
