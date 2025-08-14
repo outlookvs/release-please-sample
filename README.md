@@ -101,7 +101,7 @@ poetry run sample-a info
 poetry run sample-a process -k name=test -k env=demo
 ```
 
-## 🔄 Release Process
+## Release Process
 
 ### How It Works
 
@@ -150,7 +150,7 @@ git push origin main
 # 5. Automated build and publish will trigger
 ```
 
-## 🏃 Using the Sample Application
+## Using the Sample Application
 
 ### CLI Commands
 
