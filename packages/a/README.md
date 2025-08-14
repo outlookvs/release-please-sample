@@ -216,7 +216,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for detailed version history.
 
 This project is licensed under the MIT License - see the main repository LICENSE file for details.
 
-## 🆘 Support
+## Support
 
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Ask questions in GitHub Discussions
@@ -224,4 +224,4 @@ This project is licensed under the MIT License - see the main repository LICENSE
 
 ---
 
-Built with ❤️ for demonstrating modern Python release automation!
+Built with for demonstrating modern Python release automation!
