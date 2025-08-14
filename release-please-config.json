@@ -1,0 +1,26 @@
+{
+  "packages": {
+    "packages/a": {
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "python",
+      "component": "a",
+      "package-name": "sample-package-a",
+      "include-component-in-tag": false,
+      "pull-request-title-pattern": "chore: release ${component} ${version}",
+      "pull-request-header": ":robot: I have created a release *beep* *boop*",
+      "separate-pull-requests": true
+    }
+  },
+  "changelog-sections": [
+    {"type": "feat", "section": "Features"},
+    {"type": "fix", "section": "Bug Fixes"},
+    {"type": "chore", "section": "Miscellaneous", "hidden": true},
+    {"type": "docs", "section": "Documentation"},
+    {"type": "style", "section": "Styles", "hidden": true},
+    {"type": "refactor", "section": "Code Refactoring"},
+    {"type": "perf", "section": "Performance Improvements"},
+    {"type": "test", "section": "Tests", "hidden": true},
+    {"type": "build", "section": "Build System", "hidden": true},
+    {"type": "ci", "section": "Continuous Integration", "hidden": true}
+  ]
+}
