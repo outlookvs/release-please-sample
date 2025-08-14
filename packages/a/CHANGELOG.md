@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/outlookvs/release-please-sample/compare/v0.5.0...v1.0.0) (2025-08-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* add a breaking change
+
+### Features
+
+* add a breaking change ([718c4a1](https://github.com/outlookvs/release-please-sample/commit/718c4a139e877f9924fcefb5469d804904e6379e))
+
 ## [0.5.0](https://github.com/outlookvs/release-please-sample/compare/v0.4.0...v0.5.0) (2025-08-14)
 
 
