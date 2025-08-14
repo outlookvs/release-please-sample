@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/outlookvs/release-please-sample/compare/v0.3.0...v0.4.0) (2025-08-14)
+
+
+### Features
+
+* update api feature ([5894d4f](https://github.com/outlookvs/release-please-sample/commit/5894d4fe25b810d7e830563e4031838c66efa6dd))
+
 ## [0.3.0](https://github.com/outlookvs/release-please-sample/compare/v0.2.0...v0.3.0) (2025-08-14)
 
 
