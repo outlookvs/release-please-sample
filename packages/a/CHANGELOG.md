@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/outlookvs/release-please-sample/compare/v0.2.0...v0.3.0) (2025-08-14)
+
+
+### Features
+
+* add user auth for package a ([ad28878](https://github.com/outlookvs/release-please-sample/commit/ad288786f7bd184fb633180d79afaef0ad744398))
+
 ## [0.2.0](https://github.com/outlookvs/release-please-sample/compare/v0.1.0...v0.2.0) (2025-08-14)
 
 
